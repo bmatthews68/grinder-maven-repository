@@ -15,7 +15,7 @@
 	limitations under the License.
 -->
 <project name="Grinder Server Plugin">
-	<googleAnalyticsAccountId>UA-XXXXXX-XX</googleAnalyticsAccountId>
+	<googleAnalyticsAccountId>UA-5713196-16</googleAnalyticsAccountId>
 	<bannerLeft>
 		<name>Grinder Server Plugin</name>
 		<href>http://grinder-maven-plugin.btmatthews.com</href>
